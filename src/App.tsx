@@ -1,7 +1,9 @@
+import TextGradient from "./component/TextGradient";
+
 function App() {
    return (
       <>
-         <h1>Text Gradient</h1>
+         <TextGradient />
       </>
    );
 }
